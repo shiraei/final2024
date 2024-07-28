@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179200485605",
+    "project_id": "final-a119d",
+    "storage_bucket": "final-a119d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179200485605:android:a9795958380f550141cc0c",
+        "android_client_info": {
+          "package_name": "com.hadassa24.final24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsV8GuadlvTSLZSFcekoNS16rITwWuHFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
